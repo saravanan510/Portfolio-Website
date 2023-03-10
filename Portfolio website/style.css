@@ -1,0 +1,29 @@
+body{
+    background-color:black;
+    color: azure;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 160px;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    margin-left: 16px;
+}
+#profile{
+    width: 100px;
+    height: 100px;
+    background-color: bisque;
+}
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    background-color: aquamarine;
+}
