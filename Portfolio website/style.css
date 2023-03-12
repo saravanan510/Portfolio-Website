@@ -126,3 +126,35 @@ li{
     text-align: center;
     margin-bottom: 48px;
 }
+#Case-studies{
+    padding: 80px 120px;
+} 
+
+.grid-container2{
+    display: grid;
+    gap: 24px;
+}
+.grid-item-row{
+    display: flex;
+    background: hsla(232, 12%, 26%, 1);
+    border-radius: 20px;
+    padding: 0 36px;
+
+} 
+.left-content{
+    padding: 36px 36px 36px 0;
+}
+footer{
+    padding: 80px 120px;
+    text-align: center;
+}
+button{
+    padding: 8px 24px;
+    background-color: #FFFFFF;
+    color: black;
+    font-size: 16px;
+    font-weight: 600px;
+    border-radius: 70px;
+    border: 0px;
+    margin-top: 24px;
+}
